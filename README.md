@@ -1,2 +1,2 @@
-# Heart_attack_prediction_plot
+# Heart attack prediction plot
 #
