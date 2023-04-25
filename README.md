@@ -1,3 +1,3 @@
 # Heart attack prediction plot
 #
-![alt text](image_url)
+!KNN Cross-Validation Accuracy(KNN Cross-Validation Accuracy.png)
