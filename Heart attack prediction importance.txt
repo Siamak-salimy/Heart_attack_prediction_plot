@@ -2,7 +2,7 @@ Heart attack prediction is a task that involves utilizing various data and predi
 
 To predict the likelihood of a heart attack, several approaches and techniques can be employed, including:
 
-1. Machine Learning Models: Machine learning algorithms can be trained on historical data containing information about patients' demographics, medical history, lifestyle factors, and clinical measurements (e.g., blood pressure, cholesterol levels, etc.). These models can learn patterns and relationships within the data to make predictions about the probability of a heart attack occurring.
+1. Machine Learning Models: Machine learning algorithms can be trained on historical data containing information about patients' demographics, medical history, lifestyle factors, and clinical measurements (e.g., blood pressure, cholesterol levels, etc.). These models can learn patterns and relationships within the data to make predictions about the probability of a heart attack occurring. 
 
 2. Feature Selection: Identifying the most relevant features or risk factors is crucial for accurate prediction. Feature selection techniques help determine which variables have the most significant impact on the heart attack outcome. Common methods include correlation analysis, recursive feature elimination, and information gain.
 
