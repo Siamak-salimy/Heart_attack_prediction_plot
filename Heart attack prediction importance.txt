@@ -1,4 +1,4 @@
-Heart attack prediction is a task that involves utilizing various data and predictive models to assess the risk of an individual experiencing a heart attack. This prediction can help in identifying high-risk individuals and taking proactive measures to prevent heart-related complications.
+Heart attack prediction is a task that involves utilizing various data and predictive models to assess the risk of an individual experiencing a heart attack. This prediction can help in identifying high-risk individuals and taking proactive measures to prevent heart-related complications.     
 
 To predict the likelihood of a heart attack, several approaches and techniques can be employed, including:
 
